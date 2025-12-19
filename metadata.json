@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Faculty Feedback Insight Pro",
+  "description": "An advanced NLP-powered tool that analyzes faculty feedback Excel sheets to provide summaries, performance rankings, and actionable pedagogical modifications using Gemini AI.",
+  "requestFramePermissions": []
+}
